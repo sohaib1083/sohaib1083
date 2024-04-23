@@ -24,7 +24,7 @@ Further,
 <!-- 
 <a href="https://github.com/sohaib1083"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=sohaib1083&style=flat-square" width="125"/></a> -->
 
-Hi, I’m sohaib!
+Hi, I’m Sohaib!
 
 I’m from Pakistan, in my sixth semester at FAST NUCES, Karachi, majoring in Computer Science. Technically, I'm practicing Software Development, DevOps, Cloud, Computer Networking, Software Engineering, Full Stack Web Dev Engineering, Production Production & SRE, Database Administration, Technical Writing, Linux, and have touched briefly on Data Science, Frontend Design here and there.
 
