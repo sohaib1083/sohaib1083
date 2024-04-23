@@ -156,18 +156,20 @@ Thank you. See you soon!
 | ----------- | ----------- | ----------- | ----------- |
 | <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vU0VENDg0Mzk4MTQwMQ?sa=X&ved=2ahUKEwjGpIWC3qTuAhUNwIUKHb35DiAQ9sEGegQIARAW"><img alt="ML Ops" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr34pF8yatG2okafwNcNuTr4iTiLI_nsz_w-qNHvcCMGEixt3m"/></a> | <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vU0VENDg0Mzk4MTQwMQ?sa=X&ved=2ahUKEwjGpIWC3qTuAhUNwIUKHb35DiAQ9sEGegQIARAW"><img alt="Software Daily" src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRXZ_Kpfw4I5I0cWxroJ-U4S9xTqNY8JNxLjOKh4_LOJ9-3taA"/></a> | <a href="https://www.youtube.com/user/GISIGeometry"><img alt="Hussein Nasser" src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTsmIuMvyrwcNVQFeNpXi4zltwaFMAfi-7Wy1GptvcDhBbqOZiB"/></a> | <a href="https://www.youtube.com/channel/UCfe_znKY1ukrqlGActlFmaQ"><img alt="Healthy Software Engineering" src="https://yt3.ggpht.com/ytc/AAUvwniN_rrNoHmuHwTrXYOglDQoUiswrhISeUCDgnsuBA=s88-c-k-c0x00ffffff-no-rj"/></a> |
 
+
+<!-- 
 <h1 align="left">GitHub Statistics</h1>
 
-[![sohaib's github activity graph](https://activity-graph.herokuapp.com/graph?username=sohaib1083&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Rubix982's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rubix982&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 | | | |
 | ----------- | ----------- | ----------- |
-| <img src="https://wakatime.com/share/@sohaib1083/fe37979d-dbbb-440c-bf15-b925bd83b53d.png" /> | <img src="https://wakatime.com/share/@sohaib1083/130a5ce7-02bb-4aff-b0a1-1856f3fabd01.png" /> |
+| <img src="https://wakatime.com/share/@Rubix982/fe37979d-dbbb-440c-bf15-b925bd83b53d.png" /> | <img src="https://wakatime.com/share/@Rubix982/130a5ce7-02bb-4aff-b0a1-1856f3fabd01.png" /> |
 | | | |
 
 <div align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=sohaib1083&theme=flat&no-frame=true&margin-w=30" />
-</div>
+   <img src="https://github-profile-trophy.vercel.app/?username=rubix982&theme=flat&no-frame=true&margin-w=30" />
+</div> -->
 
 <!-- 
 ## Metrics
