@@ -26,7 +26,7 @@ Further,
 
 Hi, I’m sohaib!
 
-I’m from Pakistan, in my final year at FAST NUCES, Karachi, majoring in Computer Science. Technically, I'm practicing Open Source Software Development, DevOps, Cloud, Computer Networking, Software Engineering, Full Stack Web Dev Engineering, Production Production & SRE, Database Administration, Technical Writing, Linux, and have touched briefly on Data Science, Frontend Design here and there.
+I’m from Pakistan, in my sixth semester at FAST NUCES, Karachi, majoring in Computer Science. Technically, I'm practicing Software Development, DevOps, Cloud, Computer Networking, Software Engineering, Full Stack Web Dev Engineering, Production Production & SRE, Database Administration, Technical Writing, Linux, and have touched briefly on Data Science, Frontend Design here and there.
 
 Why so many domains? I wanted to understand each of all to a degree informing my decisions over what it takes to build a product from scratch.
 
@@ -46,15 +46,16 @@ Difficult answer. I'll split it into two parts,
 - [Meshery](https://layer5.io/) as a contributor. "The service mesh management plane" for deploying, configuring, operating, measuring, tuning a Microservice architecture. I'm just starting, but it's extremely exciting to be a part of it
 - [Y Combinator, Startup School '21](https://www.ycombinator.com/library), "Startup School" is a free online program for founders actively pursuing their own startup. It employs a 6 week program for batches where a team can work together weekly, have discussions and coordinating learning efforts and skill sharing relating heavily to startups!
 - [SIG Interoperability - Continuous Delivery Foundation](https://github.com/cdfoundation/sig-interoperability), as a community member over what efforts the Open Source community can make for tackling the interoperability problem across the CI/CD ecosystem of tools and technologies
-- Reading either ["Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems"](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321) or ["Site Reliability Engineering: How Google Runs Production Systems"](https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X/ref=pd_lpo_3?pd_rd_i=149192912X&psc=1) whenever I'm away from my laptop -->
-- Real Estate managment as Software engineering project using MERN stack
-- Implementing reliable data transfer protocol using python
-- Building a transformer using feed forward neural network from scratch 
-- My Final Year Project at FAST NUCES, it's private! Hopefully it's a hit
-- Being an open source contributor as much as I can, a promise to myself for sure
-- A research paper, slow progress, but I'm trying to get it out this Summer
+  - Reading either ["Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems"](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321) or ["Site Reliability Engineering: How Google Runs Production Systems"](https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X/ref=pd_lpo_3?pd_rd_i=149192912X&psc=1) whenever I'm away from my laptop -->
+- Real Estate management as Software engineering project using MERN stack  
+- Implementing reliable data transfer protocol using Python  
+- Building a transformer using feed-forward neural network from scratch  
+- My Final Year Project at FAST NUCES, it's private! Hopefully it's a hit  
+- Being an open-source contributor as much as I can, a promise to myself for sure  
+- A research paper, slow progress, but I'm trying to get it out this Summer  
 
-<h2 align="left">I'm Trying To Get To ...</h2>
+  
+  <h2 align="left">I'm Trying To Get To ...</h2>
 
 A list of things I want to do,
 
